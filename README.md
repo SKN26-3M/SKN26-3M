@@ -165,7 +165,8 @@ EDA 및 전처리 점검 결과, 라벨 분포는 다음과 같았다.
 - `churn_to_mvno`는 매우 희소한 이벤트로 클래스 불균형이 큰 문제
 - 따라서 두 문제는 같은 기준으로 해석하면 안 되며, 서로 다른 평가 관점이 필요하다
 
-
+<img src="images/i1.png" alt="churn_any 분포" width="800"/>
+<img src="images/i2.png" alt="churn_to_mvno 분포" width="800"/>
 
 ---
 
