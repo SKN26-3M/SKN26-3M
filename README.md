@@ -13,13 +13,60 @@
 
 ---
 
-| 이름 | GitHub | 역할 |
-|------|--------|------|
-| 윤찬호 | [@ch3477-sudo](https://github.com/ch3477-sudo) | 전처리, 전환형 데이터셋 구축, 튜닝 |
-| 홍완기 | [@dhksrlghd](https://github.com/dhksrlghd) | EDA 및 변수 해석 |
-| 홍진서 | [@ch3477-sudo](https://github.com/ch3477-sudo) | `churn_any` baseline 분석 |
-| 김용욱 | [@yonguk12077-beep](https://github.com/yonguk12077-beep) | `churn_to_mvno` 분석 |
-| 전승권 | [@ch3477-sudo](https://github.com/ch3477-sudo) | 최종 요약 및 발표 자료 정리 |
+## 팀 소개
+
+<table>
+  <tr>
+    <th>이름</th>
+    <th>GitHub</th>
+    <th>역할</th>
+  </tr>
+  <tr>
+    <td>윤찬호</td>
+    <td>
+      <a href="https://github.com/ch3477-sudo">
+        <img src="https://img.shields.io/badge/@ch3477--sudo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td>전처리, 전환형 데이터셋 구축, 튜닝</td>
+  </tr>
+  <tr>
+    <td>홍완기</td>
+    <td>
+      <a href="https://github.com/dhksrlghd">
+        <img src="https://img.shields.io/badge/@dhksrlghd-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td>EDA 및 변수 해석</td>
+  </tr>
+  <tr>
+    <td>홍진서</td>
+    <td>
+      <a href="https://github.com/ch3477-sudo">
+        <img src="https://img.shields.io/badge/@ch3477--sudo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td><code>churn_any</code> baseline 분석</td>
+  </tr>
+  <tr>
+    <td>김용욱</td>
+    <td>
+      <a href="https://github.com/yonguk12077-beep">
+        <img src="https://img.shields.io/badge/@yonguk12077--beep-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td><code>churn_to_mvno</code> 분석</td>
+  </tr>
+  <tr>
+    <td>전승권</td>
+    <td>
+      <a href="https://github.com/ch3477-sudo">
+        <img src="https://img.shields.io/badge/@ch3477--sudo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td>최종 요약 및 발표 자료 정리</td>
+  </tr>
+</table>
 
 ---
 
