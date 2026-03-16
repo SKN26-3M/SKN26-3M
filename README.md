@@ -17,46 +17,46 @@
 
 <table>
   <tr>
-    <th width="20%">팀원 1</th>
-    <th width="20%">팀원 2</th>
-    <th width="20%">팀원 3</th>
-    <th width="20%">팀원 4</th>
-    <th width="20%">팀원 5</th>
+    <th align="center">팀원 1</th>
+    <th align="center">팀원 2</th>
+    <th align="center">팀원 3</th>
+    <th align="center">팀원 4</th>
+    <th align="center">팀원 5</th>
   </tr>
   <tr>
     <td align="center">
-      <strong>윤찬호</strong><br><br>
-      <img src="https://img.shields.io/badge/Role-Preprocessing%20%26%20Tuning-4C72B0?style=flat-square"/><br><br>
+      <strong>윤찬호</strong><br>
+      <img src="https://img.shields.io/badge/Preprocessing%20%26%20Tuning-4C72B0?style=flat-square"/><br>
       <a href="https://github.com/ch3477-sudo">
-        <img src="https://img.shields.io/badge/GitHub-@ch3477--sudo-181717?style=flat-square&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/@ch3477--sudo-181717?style=flat-square&logo=github&logoColor=white"/>
       </a>
     </td>
     <td align="center">
-      <strong>홍완기</strong><br><br>
-      <img src="https://img.shields.io/badge/Role-EDA%20%26%20Insight-4C72B0?style=flat-square"/><br><br>
+      <strong>홍완기</strong><br>
+      <img src="https://img.shields.io/badge/EDA%20%26%20Insight-4C72B0?style=flat-square"/><br>
       <a href="https://github.com/dhksrlghd">
-        <img src="https://img.shields.io/badge/GitHub-@dhksrlghd-181717?style=flat-square&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/@dhksrlghd-181717?style=flat-square&logo=github&logoColor=white"/>
       </a>
     </td>
     <td align="center">
-      <strong>홍진서</strong><br><br>
-      <img src="https://img.shields.io/badge/Role-churn__any%20Baseline-4C72B0?style=flat-square"/><br><br>
+      <strong>홍진서</strong><br>
+      <img src="https://img.shields.io/badge/churn__any%20Baseline-4C72B0?style=flat-square"/><br>
       <a href="https://github.com/ch3477-sudo">
-        <img src="https://img.shields.io/badge/GitHub-@ch3477--sudo-181717?style=flat-square&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/@ch3477--sudo-181717?style=flat-square&logo=github&logoColor=white"/>
       </a>
     </td>
     <td align="center">
-      <strong>김용욱</strong><br><br>
-      <img src="https://img.shields.io/badge/Role-churn__to__mvno%20Analysis-4C72B0?style=flat-square"/><br><br>
+      <strong>김용욱</strong><br>
+      <img src="https://img.shields.io/badge/churn__to__mvno%20Analysis-4C72B0?style=flat-square"/><br>
       <a href="https://github.com/yonguk12077-beep">
-        <img src="https://img.shields.io/badge/GitHub-@yonguk12077--beep-181717?style=flat-square&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/@yonguk12077--beep-181717?style=flat-square&logo=github&logoColor=white"/>
       </a>
     </td>
     <td align="center">
-      <strong>전승권</strong><br><br>
-      <img src="https://img.shields.io/badge/Role-Final%20Summary%20%26%20Presentation-4C72B0?style=flat-square"/><br><br>
+      <strong>전승권</strong><br>
+      <img src="https://img.shields.io/badge/Final%20Summary%20%26%20Presentation-4C72B0?style=flat-square"/><br>
       <a href="https://github.com/ch3477-sudo">
-        <img src="https://img.shields.io/badge/GitHub-@ch3477--sudo-181717?style=flat-square&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/@ch3477--sudo-181717?style=flat-square&logo=github&logoColor=white"/>
       </a>
     </td>
   </tr>
